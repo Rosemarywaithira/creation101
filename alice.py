@@ -16,4 +16,4 @@ def enigma_laght():
 
     return new_msg.capitalize()
 
-print(enigma_light())
+print(enigma_laght())
