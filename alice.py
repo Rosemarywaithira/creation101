@@ -1,4 +1,4 @@
-def enigma_light():
+def enigma_laght():
     keys = 'abcdefghijklmnopqrstuvwxyz !'
     values = keys[-1] + keys[0:-1]
     #print(keys)
